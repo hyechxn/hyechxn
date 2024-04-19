@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/hyechxn/Coding-Test-Practice/main/Hyechxn.png?token=GHSAT0AAAAAACMZOCTMVARMDHGBIV6HL3SOZRCGDSQ)
+![image](/Image/Hyechxn.png)
 <br><br>
 ![hyechxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyechxn&theme=radical)
 <!--
