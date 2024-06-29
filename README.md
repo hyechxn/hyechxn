@@ -3,7 +3,7 @@
 <div align="center">
 <h1> My Stats</h1>
 
-
+|![hyechxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyechxn&show_icons=true&layout=compact&theme=radical)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyechxn&layout=compact&theme=radical)|
 |---|---|
 
 <br><br>
