@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyechxn&layout=compact&theme=radical">
 </p>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=namochi1118)
 <br><br>
 <h1> Tech Stacks</h1>
 
