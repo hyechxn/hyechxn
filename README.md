@@ -1,4 +1,4 @@
-![image](/Image/Hyechxn.png)
+![image](https://github.com/user-attachments/assets/8f238cf9-f4d2-4f22-a0cc-d32fc59bdd66)![image](/Image/Hyechxn.png)
 <br>
 <div align="center">
 <h1> My Stats</h1>
@@ -11,7 +11,9 @@
 <br><br>
 <h1> Tech Stacks</h1>
 
-![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 <br><br><br><br>
   </div>
 <!--
