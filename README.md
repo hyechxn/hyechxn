@@ -1,13 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8f238cf9-f4d2-4f22-a0cc-d32fc59bdd66)![image](/Image/Hyechxn.png)
 <br>
 <div align="center">
-<h1> My Stats</h1>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyechxn&show_icons=true&include_all_commits=true&&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyechxn&layout=compact&theme=radical">
-</p>
-
 <br><br>
 <h1> Tech Stacks</h1>
 
