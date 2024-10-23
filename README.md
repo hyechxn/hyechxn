@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f238cf9-f4d2-4f22-a0cc-d32fc59bdd66)![image](/Image/Hyechxn.png)
+![image](/Image/Hyechxn.png)
 <br>
 <div align="center">
 <br><br>
